@@ -4,6 +4,7 @@ Data Science Portfolio
 - A data science salary  model was created to help data scientists negotiate their income when they get a job.
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
 - Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
+![sector](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/6aefca44-3cf8-4702-95c8-eb99ba9b49b3)
 
 # [Project 2: HR_ANALYTICS_PROJECT](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/tree/main)
 ## Project Background and Objective
@@ -22,7 +23,4 @@ The company wants to understand what parameters impact attrition in the organiza
 ## Objective
 - To analyze attrition and correlate with other factors
 - To develop employee attrition model
-  
-![income](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/796de7fc-c18b-434e-935c-dbe3588df89c)
-![comp](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/52407baf-c89c-4737-b673-781c6bb5fef9)
 ![heat](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/7c256f2f-0a4c-498e-8589-fd8b7b9ffbe4)
