@@ -4,6 +4,7 @@ Data Science Portfolio
 - A data science salary  model was created to help data scientists negotiate their income when they get a job.
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
 - Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
+  
 ![sector](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/6aefca44-3cf8-4702-95c8-eb99ba9b49b3)
 
 # [Project 2: HR_ANALYTICS_PROJECT](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/tree/main)
