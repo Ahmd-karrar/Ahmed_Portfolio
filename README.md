@@ -8,10 +8,7 @@ Data Science Portfolio
 ![sector](https://github.com/Ahmd-karrar/ds_salary/assets/155227956/6aefca44-3cf8-4702-95c8-eb99ba9b49b3)
 
 # [Project 2: HR_ANALYTICS_PROJECT](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/tree/main)
-## Project Background and Objective
-- Client 
-A healthcare R&D organization 
-- Background
+
 The company has 1470 employees. Over the last year, The HR team has collected and consolidated information through various sources ( like surveys, appraisal reports, salary structure,  etc. ) about each employee 
 The company wants to understand what parameters impact attrition in the organization and how can they make the workplace a more conducive environment.
   
