@@ -20,3 +20,4 @@ Data comes from a commercial Sales database of an Export company, starting from 
 Destination Country, Quantity of Item in Invoice, and total Price of each Item. the marketing team wants to
 create segments of customers based on transaction patterns so that marketing strategies can be developed for 
 each segment.
+![cluster_ddddddd](https://github.com/Ahmd-karrar/Ahmed_Portfolio/assets/155227956/f06ad5e8-6fa7-45bd-a373-18a8300726bb)
