@@ -14,3 +14,9 @@ The company wants to understand what parameters impact attrition in the organiza
   
 ![heat](https://github.com/Ahmd-karrar/HR_ANALYTICS_PROJECT/assets/155227956/7c256f2f-0a4c-498e-8589-fd8b7b9ffbe4)
 
+# [Project 3: Customer Segmentation](https://github.com/Ahmd-karrar/Customer_Segmentation/blob/main/README.md)
+## Background
+Data comes from a commercial Sales database of an Export company, starting from April 2019, With Product Category, Customer Code
+Destination Country, Quantity of Item in Invoice, and total Price of each Item. the marketing team wants to
+create segments of customers based on transaction patterns so that marketing strategies can be developed for 
+each segment.
